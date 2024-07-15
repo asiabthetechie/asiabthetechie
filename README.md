@@ -1,7 +1,3 @@
-<a href="https://asiathompson.dev/">
-  <img src="/GitHubBanner.png" />
-</a>
-
 <h1> Hello there! 👋🏼 My name is Asia Thompson 😊 </h1>
 
 <p>
@@ -61,3 +57,4 @@
     <br />
 
 # GitHub Stats
+![Asia's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asiasAtWork&layout=compact)
