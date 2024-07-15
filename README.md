@@ -57,4 +57,9 @@
     <br />
 
 # GitHub Stats
-![Asia's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asiasAtWork&layout=compact)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" alt="Asia's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asiasAtWork&layout=compact&theme=react" />
+</a>
+<a href="https://git.io/streak-stats">
+  <img align="center" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=asiasAtWork&theme=react" />
+</a>
