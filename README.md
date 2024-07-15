@@ -1,11 +1,20 @@
 <h1> Hello there! 👋🏼 My name is Asia Thompson 😊 </h1>
 
 <p>
-  I’m a digital product designer, full-stack developer, and educator based in sunny southern California, with a love of learning and a passion for turning ideas into real products.  I specialize in building digital solutions that empower businesses and their users to achieve their goals. I love working with businesses of varying scales and on projects that I genuinely resonate with to deliver the best. Whether I’m in Figma designing a new product feature, in Visual Studio Code building a new interface or fixing bugs, optimizing a database, crafting a new blog or video, or chatting it up with a new client (which might be you) I’m always doing what I love!
-
-  Do you need work done for a job? Would you like to collaborate? Or, do you or have a question for me? 
+  I’m a digital product designer ✏️, full-stack developer ⌨️, and educator 📖 based in sunny southern California, with a love of learning and a passion for turning ideas into real products.  
   
-  Reach out to me through my [portfolio](https://asiathompson.dev/) or you can email me directly. 
+  I specialize in building digital solutions that empower businesses and their users to achieve their goals. I love what I do because I get the opportunity to work with businesses of varying scales 🏢 and on projects that I genuinely resonate with 💕. 
+  
+  Whether I’m in Figma designing a new product feature 💻, in Visual Studio Code building a new interface or fixing bugs 🪲, optimizing a database 📈, crafting a new blog or video, or chatting it up with a new client (which might be you) I’m grateful because I'm getting to do what I love for a living!
+
+  * Do you need work done for a job? Would you like to collaborate? Or, do you or have a question for me? 
+  
+  * Reach out to me through my [portfolio](https://asiathompson.dev/) or you can email me directly at asiasatwork@gmail.com
+
+  ![Static Badge](https://img.shields.io/badge/Portfolio-%23190F88?style=for-the-badge&link=https%3A%2F%2Fasiathompson.dev%2F)
+  ![Static Badge](https://img.shields.io/badge/LinkedIn-%230a66c2?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fasiasatwork%2F)
+  ![Static Badge](https://img.shields.io/badge/Twitter-%230a66c2?style=for-the-badge&link=https%3A%2F%2Fx.com%2FasiasAtWork)
+  ![Static Badge](https://img.shields.io/badge/YouTube-%23ff0000?style=for-the-badge&link=https%3A%2F%2Fwww.youtube.com%2F%40AsiasAtWork)
 </p>
 
 
